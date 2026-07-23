@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-xarizmatv1%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:xarizmatv1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Mr--AKULA-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mr-AKULA)
 
-[🇬🇧 English](./en/)
+[🇬🇧 English](../en/index.md)
 </div>
 
 ---
