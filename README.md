@@ -1,5 +1,13 @@
 <div align="center">
 
+🌐 [Русский](https://mr-akula.github.io/portfolio/ru/) · [English](https://mr-akula.github.io/portfolio/en/)
+
+</div>
+
+
+<div align="center">
+
+  
 # Алексеев Павел
 
 **Разработчик · Студент ПГТУ · Йошкар-Ола**
@@ -10,6 +18,9 @@
 </div>
 
 ---
+
+# Алексеев Павел — Портфолио
+
 
 ## Обо мне
 
