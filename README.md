@@ -1,6 +1,6 @@
 <div align="center">
 
-🌐 [Русский](https://mr-akula.github.io/portfolio/docs/ru/index.md) · [English](https://mr-akula.github.io/portfolio/ddocs/en/index.md)
+🌐 [Русский](https://mr-akula.github.io/portfolio/docs/ru/index.md) · [English](https://mr-akula.github.io/portfolio/docs/en/index.md)
 
 </div>
 
