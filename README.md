@@ -1,7 +1,14 @@
 <div align="center">
 ---
-# Алексеев Павел
+title: Павел Алексеев — Портфолио
 ---
+
+# Алексеев Павел
+**Разработчик · Студент ПГТУ · Йошкар-Ола**
+...
+
+# Алексеев Павел
+
 **Разработчик · Студент ПГТУ · Йошкар-Ола**
 
 [![Email](https://img.shields.io/badge/Email-xarizmatv1%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:xarizmatv1@gmail.com)
