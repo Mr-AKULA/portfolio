@@ -1,6 +1,6 @@
 <div align="center">
 
-🌐 [Русский](https://mr-akula.github.io/portfolio/ru/) · [English](https://mr-akula.github.io/portfolio/en/)
+🌐 [Русский](https://mr-akula.github.io/portfolio/docs/ru/) · [English](https://mr-akula.github.io/portfolio/docs/en/)
 
 </div>
 
